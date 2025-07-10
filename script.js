@@ -53,7 +53,7 @@ goHomeBtn.onclick =()=>{
     questionCount=0;
      questionNumb=1;
      userScore=0;
-     window.location.href = "trial.html";
+     // window.location.href = "trial.html";
      showQuestions(questionCount);
      questionCounter(questionNumb);
 
